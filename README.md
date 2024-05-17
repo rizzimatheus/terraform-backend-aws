@@ -5,7 +5,7 @@
 This repository contains a CloudFormation template and a shell script to set up a Terraform backend using AWS S3 and DynamoDB.
 
 ## Files
-- `template.yaml`: AWS CloudFormation template to create an S3 bucket and a DynamoDB table.
+- `backend.yaml`: AWS CloudFormation template to create an S3 bucket and a DynamoDB table.
 - `deploy.sh`: Shell script to deploy the CloudFormation stack and output the IDs of the created resources.
 
 ## Usage
