@@ -1,5 +1,7 @@
 # Terraform Backend AWS Resources
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 This repository contains a CloudFormation template and a shell script to set up a Terraform backend using AWS S3 and DynamoDB.
 
 ## Files
